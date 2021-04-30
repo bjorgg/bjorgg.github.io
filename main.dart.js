@@ -57023,7 +57023,7 @@ aR:function(){return new U.wz(C.m)}}
 U.wz.prototype={
 a_K:function(a){this.aE(new U.a2m(this,a))},
 Z:function(a,b){var s,r=null,q=this.ga_J(),p=t.Ma,o=T.ED(H.c([new A.C8(q,r),new M.Ey(r)],p),C.f4,C.fQ),n=b.V(t.w)
-p=H.c([o,U.a7H(C.tO,G.FG("circle.svg","circle",0.1875*n.f.a.a),r,-0.5,-0.1,0.6)],p)
+p=H.c([o,U.a7H(C.tO,G.FG("assets/circle.svg","circle",0.1875*n.f.a.a),r,-0.5,-0.1,0.6)],p)
 if(J.P(this.e)!==C.tk){o=this.e
 n=o.x
 s=o.f
